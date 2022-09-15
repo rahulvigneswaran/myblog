@@ -1,6 +1,6 @@
-baseurl: "/"
+baseurl: "rahulvigneswaran.github.io/myblog"
 permalink: pretty
-title: "Jekyll Atlantic"
+title: "Blog"
 collections_dir: collections
 markdown: kramdown
 highlighter: rouge
