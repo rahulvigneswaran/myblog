@@ -1,4 +1,4 @@
-baseurl: "rahulvigneswaran.github.io/myblog"
+baseurl: "rahulvigneswaran.github.io/"
 permalink: pretty
 title: "Blog"
 collections_dir: collections
